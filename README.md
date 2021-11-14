@@ -1,1 +1,4 @@
-# Relsify-test
+# NEEL-Token
+A Simple Token on the Ethereum blockchain's Rinkeby Network
+
+
